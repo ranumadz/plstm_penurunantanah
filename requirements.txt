@@ -1,4 +1,7 @@
 streamlit
 pandas
 numpy
-tensorflow-cpu==2.9.1
+tensorflow
+matplotlib
+folium
+streamlit-folium
