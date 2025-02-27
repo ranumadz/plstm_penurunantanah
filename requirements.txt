@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+pandas
+numpy
+tensorflow==2.9.1
